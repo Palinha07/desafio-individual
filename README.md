@@ -1,4 +1,4 @@
-# Projeto QA 404-Este Grupo n�o Existe! - Accenture
+# Projeto Academia QA Gama & Accenture
 
 <b>Este projeto foi elaborado por:</b>
 <ul>
