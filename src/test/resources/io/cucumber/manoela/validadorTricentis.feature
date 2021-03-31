@@ -25,8 +25,8 @@ E clico no campo Date of Birth preench a minha data de nascimento "07/04/1993"
 E escolho no botao opcao de genero na parte Gender
 E clico no campo Street Address preencho meu endereco "segunda travessa ECS"
 E clico no campo Country e escolho o meu pais "brazil"
-E clico no campo zip code e digito meu CEP "54762661"
-E clico no campo city e digito a minha cidade "Camaragibe"
+E clico no campo zip code e digito meu CEP "54762000"
+E clico no campo city e digito a minha cidade "Recife"
 E clico no campo Occupation seleciono a minha ocupacao "employee"
 E clico em selecionar a opcao de hobbies
 E clico em website digito o minha pagina na internet "github.com/Palinha07"
