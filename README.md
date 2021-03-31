@@ -2,11 +2,7 @@
 
 <b>Este projeto foi elaborado por:</b>
 <ul>
-<li>Elaine Souza Moreira https://github.com/Elainemor</li>
 <li>Manoela Paloma https://github.com/Palinha07</li>
-<li>Kerolayne Gomes https://github.com/kerollainy</li>
-<li>Vitoria Paiva https://github.com/victoriardspaiva</li>
-<li>Regina Moura https://github.com/ReginaMoura</li>
 </ul>
 
 # Descrição do desafio
