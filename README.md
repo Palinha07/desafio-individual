@@ -57,6 +57,9 @@ E clico no campo comments insero um comentario "teste"<br>
 E clico no botao send<br> 
 Entao devo visualizar a mensagem "Sending e-mail success!"<br>
 E clicar no botao OK<br>
+----------------------------------------------------------------------
+### link para vídeo da aplicação funcionando
+https://youtu.be/gX7h9XfHpEM<br>
 
 ----------------------------------------------------------------------
 
@@ -155,3 +158,4 @@ src
 test.bat
 test.sh
 </pre>
+
