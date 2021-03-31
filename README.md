@@ -7,7 +7,7 @@
 
 # Descrição do desafio
 
-### Criar uma aplicaÃ§Ã£o Selenium com o seguinte caso de teste
+### Criar uma aplicação Selenium com o seguinte caso de teste
 
 ### Caso de teste 
 
