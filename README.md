@@ -5,12 +5,15 @@
 <li>Manoela Paloma https://github.com/Palinha07</li>
 </ul>
 
-# Descri√ß√£o do desafio
-### Criar uma aplica√ß√£o Selenium com o seguinte caso de teste
-### Caso de teste 
-Preencher fomul√°rios no site Tricentis<br>
+# DescriÁ„o do desafio
 
-Cen√°rio: Preenchendo os formul√°rios<br>
+### Criar uma aplica√ß√£o Selenium com o seguinte caso de teste
+
+### Caso de teste 
+
+Preencher fomul·rios no site Tricentis<br>
+
+Cen·rio: Preenchendo os formul·rios<br>
 Dado que estou no site "http://sampleapp.tricentis.com/101/app.php"<br>
 E clico no campo make escolho a marca da moto "bmw"<br>
 E clico no campo model escolho o modelo da moto "scooter"<br>
@@ -57,8 +60,10 @@ E clico no campo comments insero um comentario "teste"<br>
 E clico no botao send<br> 
 Entao devo visualizar a mensagem "Sending e-mail success!"<br>
 E clicar no botao OK<br>
+
 ----------------------------------------------------------------------
 ### link para vÌdeo da aplicaÁ„o funcionando
+
 https://youtu.be/gX7h9XfHpEM<br>
 
 ----------------------------------------------------------------------
